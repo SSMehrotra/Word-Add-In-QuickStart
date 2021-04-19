@@ -51,4 +51,4 @@ documentation to lookup definitions of common business terms from a custom prepa
 
 #### Licence: [MIT](https://github.com/opensource9ja/danfojs/blob/master/LICENCE)
 
-#### Created by [Sanket Mehrotra](https://github.com/mehrotrasan16)
+#### Created by [Smriti Mehrotra](https://github.com/SSMehrotra)
